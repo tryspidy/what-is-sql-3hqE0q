@@ -1,0 +1,1 @@
+SQL is basically a programming language that lets people manipulate databases.
